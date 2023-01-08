@@ -83,3 +83,10 @@ button {
   background-color:#d8d9da;
   color: #191d21;
 }
+.bold {
+  font-weight: 800;
+}
+
+.right {
+  float: right;
+}
